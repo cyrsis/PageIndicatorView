@@ -41,6 +41,7 @@ public class HomeActivity extends AppCompatActivity {
         pageList.add(createPageView(R.color.google_yellow));
         pageList.add(createPageView(R.color.google_green));
 
+
         return pageList;
     }
 
